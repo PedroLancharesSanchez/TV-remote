@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify
 import pyautogui
 from threading import Lock
+import subprocess
+import webbrowser
 
 # Para brillo con WMI
 try:
@@ -171,9 +173,6 @@ def power():
 def get_estado():
     return jsonify(estado)
 
-import subprocess
-import webbrowser
-
 @app.route("/Netflix", methods=["POST"])
 def abrir_netflix():
     try:
@@ -212,3 +211,4 @@ def cerrar():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+
