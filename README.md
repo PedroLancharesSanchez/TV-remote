@@ -22,7 +22,10 @@ API desarrollada en Python Flask que permite controlar diferentes aspectos de un
 
 Es una APP desarrollada para Android, que permite enviar peticiones a un API dentro de la misma red WiFi. 
 La configuración por defecto del API es 192.168.1.108:5000
-![1000050868](https://github.com/user-attachments/assets/ab76a8e4-a727-43ed-9357-4b7b666fa800)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab76a8e4-a727-43ed-9357-4b7b666fa800" alt="img3" width="300"/>
+</p>
 
 Se puede editar la IP y el puerto en botón de configuración. Al ejecutar MANDO.py aparecerá un mensaje 
 
