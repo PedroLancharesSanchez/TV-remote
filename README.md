@@ -32,9 +32,11 @@ solo hay que copiar la IP (http://192.168.1.108) en la parte de arriba y el puer
 
 El APP permite generar llamadas a nuevos endpoints de forma flexible en el panel de atajos.
 
-![1000050867](https://github.com/user-attachments/assets/9ffba683-8a73-454f-b26c-6e0ec7bcca94)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ffba683-8a73-454f-b26c-6e0ec7bcca94" alt="img1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dfc4cc2c-3a0e-47bf-81be-af589585dcca" alt="img2" width="300"/>
+</p>
 
-![1000050870](https://github.com/user-attachments/assets/dfc4cc2c-3a0e-47bf-81be-af589585dcca)
 
 este atajo hará llamadas al endpoint que le hayas puesto de nombre en este caso, llamará a http://192.168.1.108:5000/cerrar
 
